@@ -96,10 +96,4 @@ Os testes cobrem:
 ## 👨‍💻 Autor
 
 Wesley Coutinho - *Analista de Qualidade de Software*  
-Contato: [LinkedIn](https://www.linkedin.com)
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob os termos da licença MIT.
+Contato: [LinkedIn](https://www.linkedin.com/in/wesleycoutinhoqa/)
