@@ -1,0 +1,10 @@
+{
+  "name": "teste_tecnico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "cypress": "^14.3.0"
+  }
+}
