@@ -41,8 +41,8 @@ Antes de iniciar, verifique se você tem os seguintes requisitos instalados:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/teste_tecnico.git
-cd teste_tecnico
+git clone https://github.com/WesleyCouti/teste_tecnico_tecnorise-qa-interview
+cd teste_tecnico_tecnorise-qa-interview
 ```
 
 2. Instale as dependências:
